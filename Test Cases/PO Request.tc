@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Getting Error From submition of item within PO.</description>
+   <name>PO Request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ed63150-5245-43b7-9e12-c169d9abaf83</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>812d4f4d-7662-41b4-a736-692b511e5fa3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>812d4f4d-7662-41b4-a736-692b511e5fa3</id>
+      <masked>false</masked>
+      <name>PO_Num</name>
+   </variable>
+</TestCaseEntity>
