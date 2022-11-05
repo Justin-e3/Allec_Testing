@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_system.admintest.com</name>
+   <tag></tag>
+   <elementGuidId>385685db-6984-48c5-92bd-5590ca565abc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.email.text-muted.mb-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/nav/div/ul/li[2]/div/div/div/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>964c6b1d-0b3b-4464-b64f-a790ece6ca11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>email text-muted mb-3</value>
+      <webElementGuid>4db5779f-a8df-4903-a8d3-2840f21482d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>system.admin@test.com</value>
+      <webElementGuid>014f432e-6bce-4cfe-a909-c38bce90403b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;page-wrapper&quot;]/nav[@class=&quot;navbar&quot;]/div[@class=&quot;navbar-content&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown nav-profile show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/div[@class=&quot;dropdown-header d-flex flex-column align-items-center&quot;]/div[@class=&quot;info text-center&quot;]/p[@class=&quot;email text-muted mb-3&quot;]</value>
+      <webElementGuid>805d5731-2d44-48e4-9cf2-7fb48b46f02f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/nav/div/ul/li[2]/div/div/div/p[2]</value>
+      <webElementGuid>afd9f843-b54c-4449-9cfd-5d9f46767e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View all'])[1]/following::p[2]</value>
+      <webElementGuid>8fae6816-76f1-4df2-86b0-81de1e528186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear all'])[1]/following::p[3]</value>
+      <webElementGuid>a280dacf-1c1c-4ef2-82f3-aa43cbae41bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Profile'])[1]/preceding::p[1]</value>
+      <webElementGuid>c38aba71-079e-4504-80a2-72c7a7a47a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/preceding::p[1]</value>
+      <webElementGuid>fe820b08-a29f-43c3-9ce5-d56988f5c4cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>81c5515e-ebcf-4fd0-94b4-2d014036140a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'system.admin@test.com' or . = 'system.admin@test.com')]</value>
+      <webElementGuid>9f065c4e-5399-4095-8ca2-bf0fa51e9721</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

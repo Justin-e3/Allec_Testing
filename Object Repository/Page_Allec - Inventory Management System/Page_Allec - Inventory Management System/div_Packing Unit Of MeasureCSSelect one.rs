@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Packing Unit Of MeasureCSSelect one</name>
+   <tag></tag>
+   <elementGuidId>0ed564f3-3fa2-4f0b-8872-3a1e5310f40f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='po-form']/div/div/div/div/div[6]/div/div[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b948b57e-76f6-47ec-998f-e986cde2b021</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group</value>
+      <webElementGuid>ae92424e-7a9f-4c45-8fa1-47ad3d17e380</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Packing Unit Of MeasureCSSelect one</value>
+      <webElementGuid>2bbd8a95-7dcc-4d53-9078-8736c8a19a65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;po-form&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 grid-margin stretch-card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;mb-2 mt-2&quot;]/div[1]/div[@class=&quot;form-group&quot;]</value>
+      <webElementGuid>7b36096f-29c7-4de0-856c-2bae9f0bdece</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='po-form']/div/div/div/div/div[6]/div/div[6]</value>
+      <webElementGuid>33447b06-5397-4b71-8e9a-bf1135669e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::div[1]</value>
+      <webElementGuid>4a2ca994-20af-4803-a435-5eab1dec0c9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allec Number'])[1]/following::div[2]</value>
+      <webElementGuid>54f3a509-a314-464d-a14e-84850f868499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[6]</value>
+      <webElementGuid>ba96ca3d-4df0-421a-942b-781f68a60820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Packing Unit Of MeasureCSSelect one' or . = 'Packing Unit Of MeasureCSSelect one')]</value>
+      <webElementGuid>49d9f3f0-1477-4ebf-80b9-c34ce2f1c431</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

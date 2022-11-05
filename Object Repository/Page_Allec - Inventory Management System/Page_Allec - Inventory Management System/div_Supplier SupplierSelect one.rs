@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Supplier SupplierSelect one</name>
+   <tag></tag>
+   <elementGuidId>9e9721e4-b38a-4633-b88a-5f4a95b8d191</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='po-form']/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>399877bf-e081-4e4d-9ddf-303e892ba8c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group</value>
+      <webElementGuid>dc293382-8ec4-41d7-8727-9539732787c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Supplier* SupplierSelect one</value>
+      <webElementGuid>4491c7b5-cfc8-43d0-8c5c-d4cb4059f8d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;po-form&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 grid-margin stretch-card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group&quot;]</value>
+      <webElementGuid>b1c6b916-50f9-42a3-9abf-b435c1b31224</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='po-form']/div/div/div/div/div[2]</value>
+      <webElementGuid>3972d312-abc1-4b78-b8a5-baaf83936d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[3]/following::div[1]</value>
+      <webElementGuid>81511fbb-3efc-420a-aa3e-b111b0e0cb13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::div[1]</value>
+      <webElementGuid>da144b18-2a6a-420a-b565-4c8c257bca66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]</value>
+      <webElementGuid>6720cc24-b9db-480d-b156-a94abbaf79dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Supplier* SupplierSelect one' or . = 'Supplier* SupplierSelect one')]</value>
+      <webElementGuid>779ad5bc-4cb3-4b08-9cbf-ca49ebc50437</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

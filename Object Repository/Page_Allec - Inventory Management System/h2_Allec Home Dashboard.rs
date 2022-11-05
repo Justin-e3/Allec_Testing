@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Allec Home Dashboard</name>
+   <tag></tag>
+   <elementGuidId>3df54d3c-be1f-4283-b483-109e73f0aa1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.h2.mr1.text-wrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>f23c8da9-65f2-4118-b67e-9a59854c2c2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h2 mr1 text-wrap</value>
+      <webElementGuid>c29d42b5-bac1-4991-acc0-7745a83bacb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Allec Home Dashboard</value>
+      <webElementGuid>ce54d461-f63f-4ab1-b0c6-d6b55cebaf21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;EmbedFrame flex flex-column spread&quot;]/div[@class=&quot;flex flex-column flex-full relative scroll-y&quot;]/div[@class=&quot;EmbedFrame-header flex flex-column p1 sm-p2 lg-p3&quot;]/div[@class=&quot;flex align-center my2&quot;]/h2[@class=&quot;h2 mr1 text-wrap&quot;]</value>
+      <webElementGuid>fdc94102-2535-4101-aa94-edcadc2982f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Allec - Inventory Management System/iframe</value>
+      <webElementGuid>942f986b-437f-4a20-aa71-c4d036c60a0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/h2</value>
+      <webElementGuid>4ed11010-e7b0-4f8c-a33f-f555efbe284c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[1]/preceding::h2[1]</value>
+      <webElementGuid>256d9740-bc09-4152-9778-85eb75c5f03d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To'])[1]/preceding::h2[1]</value>
+      <webElementGuid>54b74979-f58e-475c-8e27-6ba2fd438401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>7753d6b3-bc52-4f23-aabc-15c4db081d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Allec Home Dashboard' or . = 'Allec Home Dashboard')]</value>
+      <webElementGuid>94a70ceb-ed5c-4077-bdf6-9f5b0b982be5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

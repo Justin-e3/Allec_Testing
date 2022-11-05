@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Allec Home Dashboard</name>
+   <tag></tag>
+   <elementGuidId>b97b732f-94da-4e39-bfb3-2e523780947b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.h2.mr1.text-wrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>59097bd8-b67f-4dd7-8913-e24874a29b17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h2 mr1 text-wrap</value>
+      <webElementGuid>774d23fc-7f7b-41ed-8946-1d9c96c2c2bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Allec Home Dashboard</value>
+      <webElementGuid>78b16efc-34cc-4de7-a0ce-e25edf3ee5c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;EmbedFrame flex flex-column spread&quot;]/div[@class=&quot;flex flex-column flex-full relative scroll-y&quot;]/div[@class=&quot;EmbedFrame-header flex flex-column p1 sm-p2 lg-p3&quot;]/div[@class=&quot;flex align-center my2&quot;]/h2[@class=&quot;h2 mr1 text-wrap&quot;]</value>
+      <webElementGuid>acfa880d-4c60-4766-871f-a3ecc3b69d12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Allec_Testing/Page_Allec - Inventory Management System/iframe</value>
+      <webElementGuid>2e5490d7-285e-4302-bf30-82eff68f7b15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/h2</value>
+      <webElementGuid>ade7df58-6162-4427-95d6-5814962532b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[1]/preceding::h2[1]</value>
+      <webElementGuid>37529d04-d475-4feb-8b69-bef35dadf9d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To'])[1]/preceding::h2[1]</value>
+      <webElementGuid>da0ba7cf-0137-484f-a976-53bdfe021a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>e2df77cf-b0d1-4944-bcf3-6d2ed18d5d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Allec Home Dashboard' or . = 'Allec Home Dashboard')]</value>
+      <webElementGuid>1b6d29d4-cd13-44e7-894c-d3fda2e5baff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

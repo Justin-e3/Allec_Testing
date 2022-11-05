@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_0 New Notifications Clear all No new no_4aef11</name>
+   <tag></tag>
+   <elementGuidId>1266da30-b80a-47da-9ac6-32ce3dfdc35c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.navbar-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/nav/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>80ded5ac-be16-4477-83bf-f2ae9d637edd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar-content</value>
+      <webElementGuid>64b71170-0c11-4dc0-9ec9-43db25a41b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  0 New Notifications Clear all No new notifications View all   system.admin@test.com  Edit Profile  Log Out     Your Cart is Empty</value>
+      <webElementGuid>d691d341-920b-4243-b2fd-e9e757af5954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;page-wrapper&quot;]/nav[@class=&quot;navbar&quot;]/div[@class=&quot;navbar-content&quot;]</value>
+      <webElementGuid>25e4cad2-ac51-466b-80ce-5ee071cd747a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/nav/div</value>
+      <webElementGuid>b1b5799d-c714-4fdd-b05e-96dbc007dc0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Config'])[1]/following::div[7]</value>
+      <webElementGuid>44d2e5fa-54c7-4ecd-ae52-865a8fd26d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::div[7]</value>
+      <webElementGuid>aa21372f-c281-4f78-b050-79d965b50540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/nav/div</value>
+      <webElementGuid>c61070d4-aa1c-4f59-8286-b972baca9abe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  0 New Notifications Clear all No new notifications View all   system.admin@test.com  Edit Profile  Log Out     Your Cart is Empty' or . = '  0 New Notifications Clear all No new notifications View all   system.admin@test.com  Edit Profile  Log Out     Your Cart is Empty')]</value>
+      <webElementGuid>b293eef6-84ff-4a91-8c49-11f696015cb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

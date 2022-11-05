@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b</name>
+   <tag></tag>
+   <elementGuidId>63bc5b5d-4cce-4c73-bd6a-6808813c3ec0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2.select2-container.select2-container--default.select2-container--below.select2-container--open > span.selection > span.select2-selection.select2-selection--single > span.select2-selection__arrow > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='po-form']/div/div/div/div/div[2]/span/span/span/span[2]/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>cde69131-3a05-4347-8dff-bfc162bf405f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>0951ed7f-9fdc-4269-8c2a-c2b9aae53ba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;po-form&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 grid-margin stretch-card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--below select2-container--open&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]/span[@class=&quot;select2-selection__arrow&quot;]/b[1]</value>
+      <webElementGuid>29feedef-bb73-4047-a80b-b23117a95df9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='po-form']/div/div/div/div/div[2]/span/span/span/span[2]/b</value>
+      <webElementGuid>78c1adb3-f929-422d-92f6-0eb095cd2a74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span/span/span[2]/b</value>
+      <webElementGuid>c7a63032-bc8c-499b-8209-d8717b9887ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Allec Home Dashboard</name>
+   <tag></tag>
+   <elementGuidId>a7abca8c-d30f-4dea-9712-625fcc9922e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.align-center.my2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2f6b9c06-bd57-4d5b-a5ec-36225b663ed4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex align-center my2</value>
+      <webElementGuid>01a2fa02-1695-4074-b6f0-402f66e61d70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Allec Home Dashboard</value>
+      <webElementGuid>831f64f6-675f-45c1-8c69-f67718d76ccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;EmbedFrame flex flex-column spread&quot;]/div[@class=&quot;flex flex-column flex-full relative scroll-y&quot;]/div[@class=&quot;EmbedFrame-header flex flex-column p1 sm-p2 lg-p3&quot;]/div[@class=&quot;flex align-center my2&quot;]</value>
+      <webElementGuid>db982bc3-3a9c-49b4-aff2-634dcc264aa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Allec - Inventory Management System/iframe</value>
+      <webElementGuid>b968ff3d-5dab-4860-8c01-471d0a7f2f50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div</value>
+      <webElementGuid>9484f1b5-002d-4008-9ab4-0c617fa89f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[1]/preceding::div[3]</value>
+      <webElementGuid>b39a1fac-79ec-462c-b6c4-103ce6ed81bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>6f76d165-e802-4981-bfda-29d593fe665e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Allec Home Dashboard' or . = 'Allec Home Dashboard')]</value>
+      <webElementGuid>10eb9f6c-2c66-4863-8e77-28ab84fbbf0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

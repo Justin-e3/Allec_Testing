@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Item ExampleSelect one</name>
+   <tag></tag>
+   <elementGuidId>49846419-f85a-4463-b2bd-417a840788c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mb-2.mt-2 > div > div.form-group</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='po-form']/div/div/div/div/div[6]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>496bf4a2-b846-44ed-acdd-0ea142730eb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group</value>
+      <webElementGuid>07f34639-f09d-4223-9dc9-9337c65b2ee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Item* ExampleSelect one</value>
+      <webElementGuid>865680b4-a753-48fc-b0cb-e0ff45141f9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;po-form&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 grid-margin stretch-card&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;mb-2 mt-2&quot;]/div[1]/div[@class=&quot;form-group&quot;]</value>
+      <webElementGuid>c4050c3e-7bfc-47ef-9016-fc1209194653</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='po-form']/div/div/div/div/div[6]/div/div</value>
+      <webElementGuid>d877a4f6-d1da-4092-8595-666619c9f65e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Details'])[1]/following::div[2]</value>
+      <webElementGuid>1d07120f-cb99-4cdd-8417-ec3068f34e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[6]/following::div[3]</value>
+      <webElementGuid>620010e0-762b-4856-bbe5-31ffe063fa58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div</value>
+      <webElementGuid>48c0311e-eccf-40bc-a73a-e8a2366350f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Item* ExampleSelect one' or . = 'Item* ExampleSelect one')]</value>
+      <webElementGuid>2c33ebbe-d3f8-44fb-a17e-d4ca90a2949d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

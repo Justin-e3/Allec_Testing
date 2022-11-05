@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Allec-PO-Warehouse-1</name>
+   <tag></tag>
+   <elementGuidId>b1ed0aef-76b7-4604-bd36-df594d8a754b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='receive-put-away-table-dates']/tbody/tr/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>07b0a16e-7074-4ae5-9825-220d907d9dcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    
+                    Allec-PO-Warehouse-1
+                </value>
+      <webElementGuid>184b7f37-5605-483f-a5e5-9fee965657af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;receive-put-away-table-dates&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[2]</value>
+      <webElementGuid>d1dd27bc-ccdf-4872-bdc4-fd2d4ec02e01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='receive-put-away-table-dates']/tbody/tr/td[2]</value>
+      <webElementGuid>cdb1c032-556c-40bc-b2dc-96d3d7c8d4de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PO Status'])[1]/following::td[2]</value>
+      <webElementGuid>24cc094c-5d71-4751-ada9-8b0f3a2f3713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Cost'])[1]/following::td[2]</value>
+      <webElementGuid>9960ec4f-fc91-467a-808d-34480e12d9b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier'])[2]/preceding::td[2]</value>
+      <webElementGuid>d6dcc0f2-e4b2-4b8b-b226-6eef40288208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$1.00'])[1]/preceding::td[5]</value>
+      <webElementGuid>21164f84-7439-4a7a-b1f8-f5ade1804575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Allec-PO-Warehouse-1']/parent::*</value>
+      <webElementGuid>7107a73c-8bb8-4b2e-a1cc-6cc3d9e1ef04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>325b8bf7-3a29-4b5e-a9db-88304241ecb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                    
+                    Allec-PO-Warehouse-1
+                ' or . = '
+                    
+                    Allec-PO-Warehouse-1
+                ')]</value>
+      <webElementGuid>8e0a2354-28fc-44e8-939d-5ebd9e37a77d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
